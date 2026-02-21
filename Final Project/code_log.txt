@@ -1,0 +1,7 @@
+2026-Feb-21:16:56:$S : Preliminaries complete. Initiating ETL process
+2026-Feb-21:16:56:$S : Data extraction complete. Initiating Transformation process
+2026-Feb-21:16:56:$S : Data transformation complete. Initiating loading process
+2026-Feb-21:16:56:$S : Data saved to CSV file
+2026-Feb-21:16:56:$S : SQL Connection initiated.
+2026-Feb-21:16:56:$S : Data loaded to Database as table. Running the query
+2026-Feb-21:16:56:$S : Process Complete.
